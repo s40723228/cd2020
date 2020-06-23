@@ -94,6 +94,19 @@
 <p>5.檔案-&gt;站台管理員-&gt;新建一個站台</p>
 <p>6.設定它，協定記得改成ssh那個</p>
 <p>7.連線 完工</p>
+<p>week16</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/VuyzVaMyqtk" width="560"></iframe></p>
+<p>這次連線有三個地方要設定</p>
+<p>1.virtualBox左上角檔案-&gt;喜好設定-&gt;網路-&gt;NAT網路改動-&gt;連接阜傳送</p>
+<p>IPv6改動能去<span style="color: #ff0000;"><a href="https://github.com/mdecourse/cd2020/blob/master/downloads/w13_ipv6_assignment.txt" style="color: #ff0000;">主體IP</a></span>，<span style="color: #ff0000;"><a href="/github.com/mdecourse/cd2020/blob/master/downloads/virtualbox_ipv6.txt" style="color: #ff0000;">客體IP</a></span>找</p>
+<p>2.網路介面卡設定，在IPv6下</p>
+<p><img alt="" height="527" src="/images/ipv6設定.jpg" width="640"/></p>
+<p>3.開啟虛擬主機後，ifconfig查找自己的ipv6位子</p>
+<p>   在tmp下clone自己的倉儲(記得用submodule)</p>
+<p>去老地方找wsgi.py這個檔案，用指定sudo vi wsgi.py來更改它</p>
+<p>把host後面那串改成我們找到的ipv6的位子</p>
+<p>4.回cmsimde，輸入https://[2001:288:6004:17:2020:2:0:7228]:19443</p>
+<p>5.完成</p>
 <p></p>
 <h1>translation</h1>
 <h2><span>DesignCollaborationBetterProducts.txt</span></h2>
