@@ -38,6 +38,54 @@
 <v t="leo.20200624120141.1"><vh>第五頁</vh>
 <v t="leo.20200624120141.2"><vh>投影片快捷鍵</vh></v>
 </v>
+<v t="leo.20200624135717.1"><vh>第六頁</vh>
+<v t="leo.20200624135717.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624144731.1"><vh>第七頁</vh>
+<v t="leo.20200624144731.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624145025.1"><vh>第八頁</vh>
+<v t="leo.20200624145025.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624145023.1"><vh>第九頁</vh>
+<v t="leo.20200624145023.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624150552.1"><vh>第十頁</vh>
+<v t="leo.20200624150552.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624152121.1"><vh>第十一頁</vh>
+<v t="leo.20200624152121.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624152124.1"><vh>第十二頁</vh>
+<v t="leo.20200624152124.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624152936.1"><vh>第十三頁</vh>
+<v t="leo.20200624152936.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624152934.1"><vh>第十四頁</vh>
+<v t="leo.20200624152934.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624152939.1"><vh>第十五頁</vh>
+<v t="leo.20200624152939.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624152932.1"><vh>第十六頁</vh>
+<v t="leo.20200624152932.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624153512.1"><vh>第十七頁</vh>
+<v t="leo.20200624153512.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624153510.1"><vh>第十八頁</vh>
+<v t="leo.20200624153510.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624153508.1"><vh>第十九頁</vh>
+<v t="leo.20200624153508.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624153954.1"><vh>第二十頁</vh>
+<v t="leo.20200624153954.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20200624153952.1"><vh>第二十一頁</vh>
+<v t="leo.20200624153952.2"><vh>投影片快捷鍵</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>參考用</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -84,9 +132,9 @@ Created by [郭倞](https://www.youtube.com/channel/UCLeSX-H9ht_ew16F64RSPaA?vie
 
 						
 </t>
-<t tx="leo.20180902120523.12">##  小組開會
+<t tx="leo.20180902120523.12">##  小組開會 1
 
-&lt;iframe src="https://www.youtube.com/watch?v=HXS95dlMSv8&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/HXS95dlMSv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -397,6 +445,8 @@ vertical: body pane on the botton</t>
 
 ### ~~git clone 下來 完成~~
 
+### 沒那簡單的
+
 ![海報](https://truth.bahamut.com.tw/s01/201905/a18af90b3ecda632b62f938e50c31d5f.JPG)
 
 </t>
@@ -418,5 +468,275 @@ vertical: body pane on the botton</t>
 3. 點Html，把第二行的網址改掉，改成https://s1.mde.nfu.edu.tw:7443/?semester=1082&amp;courseno=0780 乙班名單，就完成了。&lt;br&gt;
 
 ps:dart不支援http，記得要用https</t>
+<t tx="leo.20200624135717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624135717.2">## python跟新
+
+### [做法講解](https://s40723228.github.io/cd2020/content/week1~4.html)</t>
+<t tx="leo.20200624144731.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624144731.2">## assignment 1
+
+  [報告位子](https://github.com/s40723228/cd2020/blob/master/downloads/assignment%201.pdf)</t>
+<t tx="leo.20200624145023.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624145023.2">## 小組開會
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/B6zwMXl1V3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624145025.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624145025.2">## [第5~8周](https://s40723228.github.io/cd2020/content/week5~8.html)
+
+1. 小組分工assignment2
+
+2. 翻譯
+
+3. vrep小車模擬
+
+4. 完成assignment 2
+
+</t>
+<t tx="leo.20200624150552.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624150552.2">## vrep小車模擬
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/8mJGL6cf49g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200624152121.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624152121.2">## assignment 2
+
+[報告位子](https://github.com/s40723228/cd2020/blob/master/downloads/assignment2.pdf)</t>
+<t tx="leo.20200624152124.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624152124.2">## [第九到十二周](https://s40723228.github.io/cd2020/content/week9~12.html)
+
+1. assignment 3 開會分工
+
+2. ssh認證
+
+3. API認證
+
+4. 嘗試開直播開會
+
+
+
+
+
+</t>
+<t tx="leo.20200624152932.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624152932.2">## 由我來開直播開會
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/rMHvI863RMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+</t>
+<t tx="leo.20200624152934.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624152934.2">## ssh認證
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/rmUSqbCFNQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+</t>
+<t tx="leo.20200624152936.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624152936.2">## assignment 3 開會分工
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/jr4IxIwdHLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+</t>
+<t tx="leo.20200624152939.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624152939.2">## API認證
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/gyQJbLo1VMQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+</t>
+<t tx="leo.20200624153508.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624153508.2">## filezilla設定
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/kak4z8o3bGo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+</t>
+<t tx="leo.20200624153510.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624153510.2">## assignment 3
+
+[報告位子](https://github.com/s40723228/cd2020/blob/master/downloads/assignment3.pdf)
+
+
+
+
+</t>
+<t tx="leo.20200624153512.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624153512.2">## [第十三到十六周](https://s40723228.github.io/cd2020/content/week13~16.html)
+
+1. 完成assignment 3 
+
+2. filezilla設定
+
+3. IPv6連線自己的位子
+
+4. 完成final project
+
+
+
+
+
+</t>
+<t tx="leo.20200624153952.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624153952.2">## final project
+
+[報告位子](https://github.com/s40723228/cd2020/blob/master/downloads/final%20project.pdf)
+
+
+
+
+</t>
+<t tx="leo.20200624153954.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624153954.2">## IPv6連線自己的倉儲位子
+
+&lt;iframe width="760" height="450" src="https://www.youtube.com/embed/VuyzVaMyqtk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+
+</t>
 </tnodes>
 </leo_file>
