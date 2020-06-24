@@ -100,6 +100,13 @@
 <p>1.virtualBox左上角檔案-&gt;喜好設定-&gt;網路-&gt;NAT網路改動-&gt;連接阜傳送</p>
 <p>IPv6改動能去<span style="color: #ff0000;"><a href="https://github.com/mdecourse/cd2020/blob/master/downloads/w13_ipv6_assignment.txt" style="color: #ff0000;">主體IP</a></span>，<span style="color: #ff0000;"><a href="/github.com/mdecourse/cd2020/blob/master/downloads/virtualbox_ipv6.txt" style="color: #ff0000;">客體IP</a></span>找</p>
 <p>2.網路介面卡設定，在IPv6下</p>
+<p><img alt="" height="527" src="/images/ipv6設定.jpg" width="640"/></p>
+<p>3.開啟虛擬主機後，ifconfig查找自己的ipv6位子</p>
+<p>   在tmp下clone自己的倉儲(記得用submodule)</p>
+<p>去老地方找wsgi.py這個檔案，用指定sudo vi wsgi.py來更改它</p>
+<p>把host後面那串改成我們找到的ipv6的位子</p>
+<p>4.回cmsimde，輸入https://[2001:288:6004:17:2020:2:0:7228]:19443</p>
+<p>5.完成</p>
 <p></p>
 <h1>translation</h1>
 <h2><span>DesignCollaborationBetterProducts.txt</span></h2>
@@ -200,7 +207,15 @@
 <p><span></span></p>
 <h1 class="tw-data-text tw-text-large XcVN5d tw-ta" data-placeholder="翻譯" id="tw-target-text"><span lang="en">problem</span></h1>
 <p><span lang="en">我所碰到的問題，跟解決方法</span></p>
-<p><span lang="en">1.</span></p>
+<p><span lang="en">1.在輸入python3 wsgi.py時跳出如下的錯誤訊息</span></p>
+<p><span lang="en"><img alt="" height="378" src="/images/問題一.jpg" width="507"/></span></p>
+<p><span lang="en">解決方案:1.檢查自己電腦的ipv6，倉儲裡wsgi.py裡面的是否一樣</span></p>
+<p><span lang="en">                2.把電腦介面卡打開，清空沒再用的網路的ipv6(保險一點可以再加個停用)</span></p>
+<p><span lang="en">                ps.可以現在virtual喜好設定裡網路IP先改成::1</span></p>
+<p><span lang="en"><img alt="" height="503" src="/images/帽帽1.jpg" width="685"/></span></p>
+<p><span lang="en">                    這可以用來檢測是否連上，</span><span lang="en">開網頁後用::1開啟，如果能成功連上那麼就                        表示你的連線是沒問題的，可能是網路問題，執行第二點就能解決。</span></p>
+<p><span lang="en">     3. 學校網路的網路線必定要接在主機後面的上面網路孔中，不然連線會失敗!!!</span></p>
+<p><span lang="en">                     </span></p>
 <div id="gtx-anchor" style="position: absolute; visibility: hidden; left: 25px; top: 6405.6px; width: 421.25px; height: 16px;"></div>
 <div aria-describedby="bubble-2" class="jfk-bubble gtx-bubble" role="alertdialog" style="visibility: visible; left: -30px; top: 6432px; opacity: 1;">
 <div class="jfk-bubble-content-id" id="bubble-2">
@@ -212,3 +227,4 @@
 <div class="jfk-bubble-arrowimplafter"></div>
 </div>
 </div>
+<p></p>
