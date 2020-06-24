@@ -24,10 +24,21 @@
 <v t="leo.20200528160641.1"><vh>第二頁</vh>
 <v t="leo.20200528160641.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>第三頁</vh>
+<v t="leo.20200624114026.1"><vh>第三頁</vh>
+<v t="leo.20200624114559.1"><vh>建立倉儲</vh>
+<v t="leo.20200624114559.2"><vh>LaTeX 格式方程式</vh></v>
+</v>
+<v t="leo.20200624114026.2"><vh>建立倉儲</vh>
+<v t="leo.20200624114026.3"><vh>LaTeX 格式方程式</vh></v>
+</v>
+</v>
+<v t="leo.20180902120523.11"><vh>第四頁</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180902120523.13"><vh>第四頁</vh>
+<v t="leo.20200624120141.1"><vh>第五頁</vh>
+<v t="leo.20200624120141.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20180902120523.13"><vh>參考用</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -48,12 +59,16 @@
 </vnodes>
 <tnodes>
 <t tx="leo.20180902120523.1"></t>
-<t tx="leo.20180902120523.10">## CMSimfly 網際內容管理
+<t tx="leo.20180902120523.10">##  虎尾科技大學機械設計系
 
-### KMOLab
+##  40723228倉儲簡報
+
+### [網站](https://s40723228.github.io/cd2020/content/index.html)
+
+### [倉儲](https://github.com/s40723228/cd2020)
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [郭倞](https://www.youtube.com/channel/UCLeSX-H9ht_ew16F64RSPaA?view_as=subscriber)
 &lt;/small&gt;
 
 [CMSimfly 網誌](./../blog/index.html)
@@ -69,16 +84,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12">##  小組開會
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
+&lt;iframe src="https://www.youtube.com/watch?v=HXS95dlMSv8&amp;feature=emb_title" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -335,17 +343,80 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200528160641.2">## CMSimfly 網際內容管理
+<t tx="leo.20200528160641.2">##  [**第一到四週**](https://s40723228.github.io/cd2020/content/week1~4.html)
 
-### KMOLab
+1. 建立倉儲 
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+2. 小組assignment1小組開會 
 
-[CMSimfly 網誌](./../blog/index.html)
+3. 分組作業，亂數分組 
+
+4. 翻譯 
+
+5. python跟新
+
+6. 完成assignment1
 
 
 </t>
+<t tx="leo.20200624114026.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200624114026.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200624114026.3">## git clone指令亞種
+
+###  git clone 原版的最常用&lt;br&gt;
+
+### 這次較常用的git clone --recurse-submodules&lt;br&gt;
+
+### 在cmsimde 沒有抓完全時就用那個</t>
+<t tx="leo.20200624114559.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20200624114559.2">## 倉儲建立
+
+### ~~git clone 下來 完成~~
+
+![海報](https://truth.bahamut.com.tw/s01/201905/a18af90b3ecda632b62f938e50c31d5f.JPG)
+
+</t>
+<t tx="leo.20200624120141.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200624120141.2">## 分組作業，亂數分組
+
+1. 先到about-&gt;grouping-&gt;Dart source code for random grouping
+
+2. 裡面左上有三行分別是Dart Html Css
+
+3. 點Html，把第二行的網址改掉，改成https://s1.mde.nfu.edu.tw:7443/?semester=1082&amp;courseno=0780 乙班名單，就完成了。&lt;br&gt;
+
+ps:dart不支援http，記得要用https</t>
 </tnodes>
 </leo_file>
